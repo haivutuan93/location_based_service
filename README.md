@@ -13,7 +13,7 @@ This is a location-based service that allows you to search for places. It uses J
 1.  **Clone the Repository**
     ```bash
     git clone https://github.com/haivutuan93/location_based_service
-    cd location-based-service
+    cd location_based_service
     ```
     *Note: A pre-configured `.env` file is required in the root directory for the application to run.*
 
